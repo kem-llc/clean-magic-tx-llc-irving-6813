@@ -1,0 +1,328 @@
+{
+  "business": {
+    "name": "CLEAN MAGIC TX, LLC.",
+    "shortName": "Clean Magic TX",
+    "tagline": "Reliable Handyman Services in Irving, TX",
+    "niche": "Handyman",
+    "phone": "(832) 814-6813",
+    "address": "2014 Royal Oaks Dr, Irving, TX 75060",
+    "city": "Irving, TX",
+    "hours": "Mon-Sat 8:00 AM - 6:00 PM",
+    "ctaLabel": "Schedule Service",
+    "headerCta": "Call Now"
+  },
+  "seo": {
+    "title": "Handyman Services Irving, TX | CLEAN MAGIC TX, LLC.",
+    "description": "Trusted handyman in Irving, TX. Expert repairs, installations, and home maintenance. Call (832) 814-6813 for fast, reliable service."
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Irving's Trusted Handyman",
+      "headline": "Your Home, Perfectly Maintained",
+      "subheadline": "From minor repairs to major renovations, we deliver quality craftsmanship with a smile. Same-day service available in Irving.",
+      "primaryCta": "Get a Free Estimate",
+      "secondaryCta": "Call (832) 814-6813"
+    },
+    "stats": [
+      {
+        "value": "5.0",
+        "label": "Average Rating"
+      },
+      {
+        "value": "150+",
+        "label": "Projects Completed"
+      },
+      {
+        "value": "10+",
+        "label": "Years Experience"
+      },
+      {
+        "value": "100%",
+        "label": "Customer Satisfaction"
+      }
+    ],
+    "featureSections": [
+      {
+        "eyebrow": "Comprehensive Repairs",
+        "title": "Fix It Right the First Time",
+        "body": "Whether it's a leaky faucet, a squeaky door, or drywall damage, our skilled handymen handle it all. We use quality materials and proven techniques to ensure lasting results.",
+        "bullets": [
+          "Plumbing and electrical repairs",
+          "Drywall patching and painting",
+          "Furniture assembly and mounting",
+          "Door and window adjustments"
+        ],
+        "reverse": false,
+        "cardLabel": "Service",
+        "cardTitle": "Same-Day Service",
+        "cardBody": "Need a quick fix? We offer same-day service for urgent repairs. Call us and we'll be there promptly."
+      },
+      {
+        "eyebrow": "Home Improvement",
+        "title": "Upgrade Your Space",
+        "body": "Transform your home with custom installations and upgrades. From smart home devices to new light fixtures, we bring your vision to life with precision and care.",
+        "bullets": [
+          "Ceiling fan and light installation",
+          "Smart thermostat and doorbell setup",
+          "Shelving and cabinet installation",
+          "Baseboard and trim work"
+        ],
+        "reverse": true,
+        "cardLabel": "Project",
+        "cardTitle": "Free Consultation",
+        "cardBody": "Not sure what you need? We'll come by, assess the job, and provide a clear, upfront quote with no hidden fees."
+      }
+    ],
+    "whyTitle": "Why Choose Clean Magic TX?",
+    "whyChooseUs": [
+      {
+        "title": "Licensed & Insured",
+        "description": "Fully licensed and insured for your peace of mind. We take responsibility for every job, big or small."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "No surprises. We provide detailed estimates before any work begins, and we stick to them."
+      },
+      {
+        "title": "Skilled Craftsmen",
+        "description": "Our team has years of hands-on experience across all trades. We take pride in doing the job right."
+      },
+      {
+        "title": "Local & Reliable",
+        "description": "Proudly serving Irving and surrounding areas. We show up on time and communicate every step."
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "Clean Magic TX fixed my kitchen sink and installed a new garbage disposal. Fast, professional, and the price was fair. Highly recommend!",
+        "author": "Sarah M.",
+        "role": "Irving Homeowner"
+      },
+      {
+        "quote": "They assembled my patio furniture and mounted my TV. Everything was perfect. Great attention to detail.",
+        "author": "James L.",
+        "role": "Las Colinas Resident"
+      },
+      {
+        "quote": "I've used them multiple times for various repairs. Always on time, friendly, and the work is top-notch.",
+        "author": "Maria G.",
+        "role": "Valley Ranch Homeowner"
+      }
+    ],
+    "cta": {
+      "headline": "Ready to Get Started?",
+      "subheadline": "Call or click to schedule your service today. We'll make your home feel like new.",
+      "primaryCta": "Schedule Now",
+      "secondaryCta": "Call (832) 814-6813"
+    }
+  },
+  "servicesPage": {
+    "intro": "From small fixes to big projects, our handyman services cover it all. We bring skill, reliability, and a friendly attitude to every job in Irving."
+  },
+  "services": [
+    {
+      "icon": "01",
+      "title": "General Repairs & Maintenance",
+      "shortDescription": "Fix leaks, patch walls, and keep your home running smoothly.",
+      "longDescription": "Our general repair service tackles the everyday wear and tear of your home. We handle plumbing drips, electrical glitches, drywall holes, and more. Every repair is done with quality materials and a focus on long-term durability.",
+      "benefits": [
+        "Extends the life of your home's systems",
+        "Prevents small issues from becoming costly",
+        "Saves you time and hassle",
+        "Done by experienced professionals"
+      ],
+      "process": [
+        {
+          "title": "Inspection",
+          "description": "We assess the issue and identify the root cause."
+        },
+        {
+          "title": "Repair",
+          "description": "We perform the fix using proper tools and techniques."
+        },
+        {
+          "title": "Cleanup",
+          "description": "We leave your space clean and tidy after the job."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Do you offer same-day repairs?",
+          "answer": "Yes, for many common issues. Call us to check availability."
+        },
+        {
+          "question": "What areas do you serve?",
+          "answer": "We serve Irving and nearby Dallas-Fort Worth suburbs."
+        }
+      ],
+      "slug": "general-repairs-maintenance"
+    },
+    {
+      "icon": "02",
+      "title": "Furniture Assembly & Installation",
+      "shortDescription": "Professional assembly for flat-pack furniture and more.",
+      "longDescription": "Save yourself the frustration of confusing instructions. We assemble and install furniture from IKEA, Wayfair, Amazon, and other retailers. We also mount TVs, shelves, and curtain rods with precision and care.",
+      "benefits": [
+        "No missing parts or stripped screws",
+        "Furniture assembled correctly and safely",
+        "TVs mounted securely on any wall",
+        "Time saved for you to enjoy your space"
+      ],
+      "process": [
+        {
+          "title": "Unbox & Organize",
+          "description": "We lay out all parts and hardware."
+        },
+        {
+          "title": "Assemble",
+          "description": "We follow instructions carefully and build your item."
+        },
+        {
+          "title": "Place & Level",
+          "description": "We position your furniture and ensure everything is level."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Do you bring your own tools?",
+          "answer": "Yes, we come fully equipped with all necessary tools."
+        },
+        {
+          "question": "Can you mount a TV over a fireplace?",
+          "answer": "Absolutely. We handle all types of wall mounts."
+        }
+      ],
+      "slug": "furniture-assembly-installation"
+    },
+    {
+      "icon": "03",
+      "title": "Plumbing & Electrical",
+      "shortDescription": "Fix leaks, install fixtures, and handle basic wiring.",
+      "longDescription": "Our handymen are experienced in common plumbing and electrical tasks. We replace faucets, toilets, garbage disposals, light fixtures, outlets, and switches. For complex work, we coordinate with licensed specialists.",
+      "benefits": [
+        "Quick resolution of leaks and clogs",
+        "Safe electrical repairs and upgrades",
+        "Fixture installations that look great",
+        "Peace of mind with proper work"
+      ],
+      "process": [
+        {
+          "title": "Diagnose",
+          "description": "We identify the problem and explain options."
+        },
+        {
+          "title": "Repair/Replace",
+          "description": "We fix or install the component efficiently."
+        },
+        {
+          "title": "Test",
+          "description": "We test everything to ensure proper function."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Can you install a new light fixture?",
+          "answer": "Yes, we install chandeliers, pendants, flush mounts, and more."
+        },
+        {
+          "question": "Do you handle gas line repairs?",
+          "answer": "No, gas work requires a specialized plumber. We can refer you."
+        }
+      ],
+      "slug": "plumbing-electrical"
+    },
+    {
+      "icon": "04",
+      "title": "Painting & Drywall",
+      "shortDescription": "Refresh your walls with expert painting and drywall repair.",
+      "longDescription": "Give your home a fresh look with our painting and drywall services. We patch holes, repair cracks, and apply smooth, even coats of paint. Interior and exterior work available. We use premium paints for lasting beauty.",
+      "benefits": [
+        "Flawless finish with no drips or streaks",
+        "Increases home value and curb appeal",
+        "Protects walls from moisture and wear",
+        "Quick turnaround with minimal mess"
+      ],
+      "process": [
+        {
+          "title": "Prep",
+          "description": "We protect floors and furniture, then patch and sand."
+        },
+        {
+          "title": "Prime & Paint",
+          "description": "We apply primer and two coats of quality paint."
+        },
+        {
+          "title": "Cleanup",
+          "description": "We remove tape and covers, leaving your room spotless."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Do you provide paint?",
+          "answer": "Yes, we can supply paint or work with your chosen colors."
+        },
+        {
+          "question": "Can you paint a single accent wall?",
+          "answer": "Of course. We handle projects of any size."
+        }
+      ],
+      "slug": "painting-drywall"
+    }
+  ],
+  "about": {
+    "headline": "Your Neighborhood Handyman",
+    "mission": "To provide Irving homeowners with reliable, high-quality handyman services that make home maintenance stress-free.",
+    "story": [
+      "Clean Magic TX, LLC. was founded on the belief that every home deserves care and attention. Starting with a small toolkit and a commitment to excellence, we built a reputation for honesty, skill, and punctuality. Over the years, we've helped hundreds of Irving residents with everything from leaky faucets to full home renovations.",
+      "Today, we continue to grow by staying true to our roots: showing up on time, communicating clearly, and delivering work that we're proud to put our name on. Whether it's a small repair or a major project, we treat every home like our own."
+    ],
+    "highlight": {
+      "stat": "10+",
+      "label": "Years Serving Irving"
+    },
+    "coreValues": [
+      {
+        "title": "Quality Craftsmanship",
+        "description": "We never cut corners. Every job is done to the highest standard."
+      },
+      {
+        "title": "Integrity",
+        "description": "Honest pricing, transparent communication, and respect for your home."
+      },
+      {
+        "title": "Reliability",
+        "description": "We show up when we say we will and finish on time."
+      },
+      {
+        "title": "Customer Focus",
+        "description": "Your satisfaction is our success. We listen and adapt to your needs."
+      }
+    ]
+  },
+  "contact": {
+    "headline": "Let's Get Started",
+    "subheadline": "Call or fill out the form to schedule your service. We'll respond within 24 hours.",
+    "primaryCta": "Call (832) 814-6813",
+    "formCta": "Send Message",
+    "serviceAreas": [
+      "Irving",
+      "Las Colinas",
+      "Valley Ranch",
+      "Coppell",
+      "Grand Prairie",
+      "Farmers Branch"
+    ]
+  },
+  "social_proof": {
+    "rating": 5.0,
+    "reviews": null
+  },
+  "meta": {
+    "niche": "Handyman",
+    "generated_by": "deepseek",
+    "review_snippets_used": 0
+  },
+  "phone_href": "tel:8328146813",
+  "current_year": 2026,
+  "header_cta": "Call Now"
+}
